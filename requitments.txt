@@ -1,0 +1,4 @@
+mediapipe==0.10.14
+cvzone
+opencv-python==4.10.0.84
+PyQt5
